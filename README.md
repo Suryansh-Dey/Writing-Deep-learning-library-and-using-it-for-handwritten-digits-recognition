@@ -1,5 +1,6 @@
 # Writing-Deep-learning-library-and-using-it-for-handwritten-digits-recognition
 WARNINGs: 
+
 1 -> NeuralNetworks library uses the convention of storing array of format:
 {array_size, element_1,...., element_(array_size-1)};
 For eg: if you wanna pass an array like { 1,2,3 } to some function of this library then you have to modify it in above mentioned format which will be like: {4,1,2,3}
