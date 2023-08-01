@@ -1,4 +1,6 @@
 # Writing-Deep-learning-library-and-using-it-for-handwritten-digits-recognition
+Download MNIST DATASET from here http://yann.lecun.com/exdb/mnist/
+
 WARNINGs: 
 
 1 -> NeuralNetwork library uses the convention of storing array of format:
